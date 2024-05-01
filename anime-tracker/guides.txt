@@ -1,0 +1,17 @@
+BACKEND 
+https://dev.to/bilal1718/how-to-create-a-backend-api-in-express-js-e0k
+
+AUTHENTICATION
+https://firebase.google.com/docs/auth/admin
+https://firebase.google.com/docs/auth?authuser=0&hl=en
+https://firebase.google.com/docs/auth/web/password-auth?hl=en&authuser=0
+https://firebase.google.com/docs/reference/admin/node/firebase-admin.auth
+logout --> https://firebase.google.com/docs/auth/admin/manage-sessions
+logout --> https://firebase.google.com/docs/auth/admin/verify-id-tokens
+token extraction --> https://stackoverflow.com/questions/50284841/how-to-extract-token-string-from-bearer-token
+token extraction --> https://expressjs.com/en/guide/writing-middleware.html
+
+
+FRONTEND
+
+https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/context/
